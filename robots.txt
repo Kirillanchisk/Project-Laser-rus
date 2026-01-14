@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kirillanchisk.github.io/Project-Laser-rus/sitemap.xml
